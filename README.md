@@ -1,4 +1,7 @@
 # SentEmojiBot
+
+Amit Yadav | Akhilesh Ravi | Jatin Dholakia | Jainish Chauhan
+
 Empathetic Conversations using Emojis
 
 SentiEmojiBot - An empathising conversation generating bot that uses text and emojis.
